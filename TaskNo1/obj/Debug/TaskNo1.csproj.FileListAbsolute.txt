@@ -1,0 +1,6 @@
+/Users/lukassestic/Library/Mobile Documents/com~apple~CloudDocs/FER/III. Semestar/C#/Zadaće/1.HomeWork/AppDev1stHomework/TaskNo1/bin/Debug/TaskNo1.exe
+/Users/lukassestic/Library/Mobile Documents/com~apple~CloudDocs/FER/III. Semestar/C#/Zadaće/1.HomeWork/AppDev1stHomework/TaskNo1/bin/Debug/TaskNo1.pdb
+/Users/lukassestic/Library/Mobile Documents/com~apple~CloudDocs/FER/III. Semestar/C#/Zadaće/1.HomeWork/AppDev1stHomework/TaskNo1/obj/Debug/TaskNo1.csprojResolveAssemblyReference.cache
+/Users/lukassestic/Library/Mobile Documents/com~apple~CloudDocs/FER/III. Semestar/C#/Zadaće/1.HomeWork/AppDev1stHomework/TaskNo1/obj/Debug/TaskNo1.csproj.CoreCompileInputs.cache
+/Users/lukassestic/Library/Mobile Documents/com~apple~CloudDocs/FER/III. Semestar/C#/Zadaće/1.HomeWork/AppDev1stHomework/TaskNo1/obj/Debug/TaskNo1.exe
+/Users/lukassestic/Library/Mobile Documents/com~apple~CloudDocs/FER/III. Semestar/C#/Zadaće/1.HomeWork/AppDev1stHomework/TaskNo1/obj/Debug/TaskNo1.pdb
